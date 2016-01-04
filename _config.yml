@@ -1,14 +1,8 @@
-layout_spectrum: 0.3380613
+layout_spectrum: 0.2153598
+typography_spectrum: 0.8437164
 color:
   saturation: 0.5290011
   lightness: 0.5451128
   brandStrength: 0.4706582
   rhythmicContrast: 0.4108485
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-typography_spectrum: 0.8437164
 name: Europe 2016
