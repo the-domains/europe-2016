@@ -1,8 +1,24 @@
+name: Europe 2016
+favicon: null
 layout_spectrum: 0.2153598
 typography_spectrum: 0.8437164
+title: Europe2016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5290011
-  lightness: 0.5451128
+  brandColors: []
   brandStrength: 0.4706582
+  lightness: 0.5451128
+  saturation: 0.5290011
   rhythmicContrast: 0.4108485
-name: Europe 2016
+purpose: []
