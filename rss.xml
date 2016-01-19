@@ -4,7 +4,7 @@
         <description><![CDATA[Europe2016]]></description>
         <link>https://thegrid.ai/europe-2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 07:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 07:59:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/europe-2016/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/europe-2016/ac050717-6156-4f0d-b41e-16b518669ef2/index.html</link>
             <guid isPermaLink="false">ac050717-6156-4f0d-b41e-16b518669ef2</guid>
             <pubDate>Tue, 19 Jan 2016 07:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>June 13</p>]]></description>
+            <link>https://thegrid.ai/europe-2016/f3b8e63d-e725-4dc3-9936-a1fe4696314c/index.html</link>
+            <guid isPermaLink="false">f3b8e63d-e725-4dc3-9936-a1fe4696314c</guid>
+            <pubDate>Tue, 19 Jan 2016 07:59:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
